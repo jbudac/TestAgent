@@ -1,0 +1,6 @@
+{
+  "name": "commit-skill",
+  "description": "Interactive Git commit skill implemented in PowerShell",
+  "language": "powershell",
+  "entry": "commit.ps1"
+}
